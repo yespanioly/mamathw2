@@ -1,0 +1,3 @@
+A. 4-5 hours.
+B. Bash is important and very efficient for reading and editing large files, this could be used for extracting research data from websites frequently updated.
+C. We can write another script that runs in the background and automatically runs our script every hour, take the links and compare it to our old links and if theres a new link analyze it and extract the data and add it to the table.
